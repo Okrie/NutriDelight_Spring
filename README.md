@@ -1,7 +1,7 @@
 # NutriDelight_Spring
 Java Spring Boot로 늘어나는 1인 가구로 인해 불규칙적인 식사 문제를 손쉽게 접근 할 수 있게 밀키트 판매 홈페이지 제작    
 Java MVC패턴으로 제작했던 프로젝트를 Spring Boot로 이식    
-MVC 제작 기간 - (2023-05-29 ~ 2023-06-13)    
+Java MVC 제작 기간 - (2023-05-29 ~ 2023-06-13)    
 Spring 제작 기간 - (2023-06-19 ~ 2023-06-21)
             
 <a href="https://drive.google.com/file/d/1ilzlk-_ZHtDSSNQjwnRbURWj2H5ea2XW/view?usp=sharing" title="PDF로 이동">![cover](https://github.com/Okrie/NutriDelight_Spring/blob/main/Nutridelight_Spring.png)</a> 
